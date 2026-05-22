@@ -1,58 +1,58 @@
-# ¡Hola, soy Camilo! 👋
+# Hi there, I'm Camilo! 👋
 
-Especialista en desarrollo backend y soluciones orientadas a datos. Cuento con 2 años de experiencia como Desarrollador de Software y una Maestría en Ciencia de Datos (MSc), enfocándome en transformar datos no estructurados en información valiosa y en la modernización de arquitecturas de software a gran escala.
+Backend Developer and data-driven solutions specialist. I have 2 years of experience as a Software Developer alongside a Master's in Data Science (MSc), focusing on transforming unstructured data into valuable insights and modernizing large-scale software architectures.
 
-Actualmente formo parte del equipo **Data In** en **Talent.com**, donde optimizo la ingesta de datos y lidero iniciativas de migración tecnológica hacia microservicios de alto rendimiento y capacidades impulsadas por IA.
+Currently, I am part of the **Data In** team at **Talent.com**, where I optimize data ingestion workflows and lead technical migration initiatives toward high-performance microservices and AI-driven capabilities.
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Professional Experience
 
 ### **Talent.com** | *Back-end Developer*
-*Noviembre 2022 – Presente*
-* Lideré la migración completa del sitio web principal de **Talent.com** desde una base monolítica en PHP hacia una arquitectura moderna de **microservicios** utilizando **Go** y **TypeScript**.
-* Diseñé e implementé la infraestructura de despliegue sobre **Kubernetes** y Amazon Web Services (**AWS**), optimizando la escalabilidad y disponibilidad del sistema.
-* Integré capacidades basadas en **Inteligencia Artificial (AI)** dentro de la nueva arquitectura, estableciendo las bases para un rendimiento de plataforma más dinámico y eficiente.
-* Automatizé y monitoricé la infraestructura mediante la integración de métricas en tiempo real con **Prometheus** y **Grafana**, garantizando la utilización óptima de recursos.
-* Transformo masivamente listados de empleo no estructurados en datos estructurados de alto valor, mejorando significativamente la experiencia de usuario y las funcionalidades de búsqueda de la plataforma.
+*November 2022 – Present*
+* Led the full migration of Talent.com’s core website from a PHP monolithic codebase to a modern **microservices** architecture using **Go** and **TypeScript**.
+* Designed and deployed infrastructure on **Kubernetes** and Amazon Web Services (**AWS**), significantly improving system scalability and availability.
+* Integrated **Artificial Intelligence (AI)** capabilities into the new architecture, establishing the foundation for more dynamic and efficient platform performance.
+* Automated and monitored infrastructure by integrating real-time metrics with **Prometheus** and **Grafana**, ensuring optimal resource utilization.
+* Transform massive volumes of unstructured job listings into high-value structured data, enhancing user experience and platform search functionalities.
 
 ### **Materialise** | *Team Leader*
-*Septiembre 2021 – Noviembre 2022*
-* Lideré el equipo de **Plastic Design**, supervisando el diseño y la garantía de calidad de guías quirúrgicas personalizadas bajo los más estrictos estándares de precisión médica y funcionalidad.
+*September 2021 – November 2022*
+* Led the **Plastic Design** team, overseeing the design and quality assurance of customized surgical guides to ensure they met the highest medical standards of precision and functionality.
 
 ### **Materialise** | *Trainer & Technical Support*
-*Septiembre 2021 – Noviembre 2022*
-* Responsable de la capacitación técnica y soporte especializado en herramientas de diseño biomédico avanzado y flujos de trabajo de ingeniería.
+*September 2021 – November 2022*
+* Responsible for technical training and specialized support in advanced biomedical design tools and engineering workflows.
 
 ### **Materialise** | *Quality Engineer*
-*Enero 2019 – Septiembre 2021*
-* Implementé controles y metodologías de aseguramiento de calidad de software y productos médicos, optimizando procesos de manufactura y diseño aditivo.
+*January 2019 – September 2021*
+* Implemented quality assurance controls and methodologies for software and medical products, optimizing additive manufacturing and design workflows.
 
 ### **Materialise** | *Conversion & Designer Engineer*
-*Enero 2017 – Enero 2019*
-* Especialista en conversión de imágenes médicas y modelado digital tridimensional para soluciones de salud a medida.
+*January 2017 – January 2019*
+* Specialized in medical image processing, data conversion, and three-dimensional digital modeling for tailor-made healthcare solutions.
 
 ---
 
-## 🚀 Habilidades Técnicas y Competencias
+## 🚀 Technical Skills & Competencies
 
-* **Lenguajes de Programación:** Go, TypeScript, Python, PHP, Wolfram Mathematica.
-* **Herramientas y Tecnologías:** SQL, Elasticsearch, Pandas, Kubernetes, AWS, Prometheus, Grafana.
-* **Habilidades Blandas:** Mejora de Procesos (Process Improvement), Compromiso, Adaptabilidad y Agilidad de Aprendizaje.
+* **Programming Languages:** Go, TypeScript, Python, PHP, Wolfram Mathematica.
+* **Tools & Technologies:** SQL, Elasticsearch, Pandas, Kubernetes, AWS, Prometheus, Grafana.
+* **Soft Skills:** Process Improvement, Commitment, High Adaptability, and Learning Agility.
 
 ---
 
-## 🌱 Educación y Aprendizaje Continuo
+## 🌱 Education & Continuous Learning
 
-* **MSc (Maestría) en Ciencia de Datos** (Data Science)
+* **MSc in Data Science** (Master's Degree)
 * **AWS Certified AI Practitioner**
 
 ---
 
-## 📫 Contacto y Redes
+## 📫 How to Reach Me
 
 * **📧 Email:** [camilo.quiceno.q@gmail.com](mailto:camilo.quiceno.q@gmail.com)
 * **💼 LinkedIn:** [linkedin.com/in/camiloqq](https://www.linkedin.com/in/camiloqq/)
 
 ---
-¡Gracias por visitar mi perfil! 😄
+Thanks for stopping by! 😄
