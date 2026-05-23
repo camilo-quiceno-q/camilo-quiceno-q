@@ -51,8 +51,29 @@ Currently, I am part of the **Data In** team at **Talent.com**, where I optimize
 
 ## 📫 How to Reach Me
 
-* **📧 Email:** [camilo.quiceno.q@gmail.com](mailto:camilo.quiceno.q@gmail.com)
-* **💼 LinkedIn:** [linkedin.com/in/camiloqq](https://www.linkedin.com/in/camiloqq/)
+* **📧 Email:** camilo.quiceno.q@gmail.com
+* **💼 LinkedIn:** https://www.linkedin.com/in/camiloqq/
 
 ---
+
+## 🔗 LinkedIn About
+
+As a Software Engineer with a Master’s in Data Science and AWS certifications (Cloud & AI), I specialize in designing and building scalable, data-driven backend solutions for large-scale distributed systems. I bridge the gap between high-performance software engineering, cloud infrastructure, and intelligent data systems.
+
+Currently, at Nu Colombia, I work in the Growth team (Upper Funnel Pack), engineering the core microservices for customer acquisition. I focus heavily on the 'Member Get Member' (MGM) referral flow and building cutting‑edge agentic architectures to deliver intelligent end‑to‑end solutions, collaborating with Product and Design teams to build frictionless, high‑availability services that turn customer curiosity into action.
+
+**Key Highlights of my Career:**
+
+- **Backend Modernization:** Migrated Talent.com's core monolith to Go/TypeScript microservices on AWS and Kubernetes. Integrated real‑time monitoring (Prometheus & Grafana) and structured unstructured data to enable AI‑driven capabilities.
+- **Engineering Leadership:** Led the CMF Plastic Team at Materialise, taking end‑to‑accountability for quality and delivery of customized surgical guides, applying my background in Bioengineering to high‑precision processes.
+- **Cloud & AI Adoption:** Actively leveraging modern cloud architectures and AI/ML concepts, backed by AWS Certified Cloud Practitioner and AWS Certified AI Practitioner certifications.
+
+**Core Expertise:**
+- **Backend & Architecture:** Clojure, Go, TypeScript, Python, PHP, Microservices, Distributed Systems
+- **Data & AI:** Data Science, Agentic Systems, AI Agents, Kafka, Prometheus, Grafana
+- **Cloud & DevOps:** AWS, Kubernetes, Docker
+- **Leadership:** Team Management, Agile, Process Improvement, Quality Assurance
+
+---
+
 Thanks for stopping by! 😄
