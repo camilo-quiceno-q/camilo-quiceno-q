@@ -1,12 +1,23 @@
 # Hi there, I'm Camilo! 👋
 
-Backend Developer and data-driven solutions specialist. I have 2 years of experience as a Software Developer alongside a Master's in Data Science (MSc), focusing on transforming unstructured data into valuable insights and modernizing large-scale software architectures.
+As a Software Engineer with a Master’s in Data Science and AWS certifications (Cloud & AI), I specialize in designing and building scalable, data-driven backend solutions for large-scale distributed systems. I bridge the gap between high-performance software engineering, cloud infrastructure, and intelligent data systems.
 
-Currently, I am part of the **Data In** team at **Talent.com**, where I optimize data ingestion workflows and lead technical migration initiatives toward high-performance microservices and AI-driven capabilities.
+Currently, at Nu Colombia, I work in the Growth team (Upper Funnel Pack), engineering the core microservices for customer acquisition. I focus heavily on the 'Member Get Member' (MGM) referral flow and building cutting-edge agentic architectures to deliver intelligent end-to-end solutions, collaborating with Product and Design teams to build frictionless, high-availability services that turn customer curiosity into action.
 
 ---
 
 ## 💼 Professional Experience
+
+### **Nu Colombia** | *Software Engineer*
+*Mar 2025 – Present · 1 yr 3 mos*
+*Bogotá, Capital District, Colombia · Remote*
+
+- Member of the Upper Funnel Pack, engineering core services guiding customers through their journey, transforming curiosity into action by designing frictionless architecture for financial product selection.
+- Collaborate in an agile environment with Product, Design, and Engineering teams to design and implement robust end‑to‑end solutions for new user experiences and demand generation channels.
+- Drive adoption of software engineering principles and architectural best practices to ensure a highly available and resilient platform.
+- Architect, build, and maintain scalable microservices that power the customer journey, from initial interaction to product selection.
+- Engineer solutions within a large‑scale distributed system, focusing on system design, performance, and long‑term maintainability.
+
 
 ### **Talent.com** | *Back-end Developer*
 *November 2022 – Present*
@@ -40,11 +51,24 @@ Currently, I am part of the **Data In** team at **Talent.com**, where I optimize
 * **Tools & Technologies:** SQL, Elasticsearch, Pandas, Kubernetes, AWS, Prometheus, Grafana.
 * **Soft Skills:** Process Improvement, Commitment, High Adaptability, and Learning Agility.
 
+- **Key Highlights of my Career:**
+  - **Backend Modernization:** Migrated Talent.com’s core monolith to Go/TypeScript microservices on AWS and Kubernetes. Integrated real‑time monitoring (Prometheus & Grafana) and structured unstructured data to enable AI‑driven capabilities.
+  - **Engineering Leadership:** Led the CMF Plastic Team at Materialise, taking end‑to‑accountability for quality and delivery of customized surgical guides, applying my background in Bioengineering to high‑precision processes.
+  - **Cloud & AI Adoption:** Actively leveraging modern cloud architectures and AI/ML concepts, backed by AWS Certified Cloud Practitioner and AWS Certified AI Practitioner certifications.
+
+- **Core Expertise:**
+  - **Backend & Architecture:** Clojure, Go, TypeScript, Python, PHP, Microservices, Distributed Systems
+  - **Data & AI:** Data Science, Agentic Systems, AI Agents, Kafka, Prometheus, Grafana
+  - **Cloud & DevOps:** AWS, Kubernetes, Docker
+  - **Leadership:** Team Management, Agile, Process Improvement, Quality Assurance
+
 ---
 
 ## 🌱 Education & Continuous Learning
 
+* **Biomedical Engineer** (Bachelor's Degree)
 * **MSc in Data Science** (Master's Degree)
+* **AWS Cloud Practitioner**
 * **AWS Certified AI Practitioner**
 
 ---
@@ -53,26 +77,6 @@ Currently, I am part of the **Data In** team at **Talent.com**, where I optimize
 
 * **📧 Email:** camilo.quiceno.q@gmail.com
 * **💼 LinkedIn:** https://www.linkedin.com/in/camiloqq/
-
----
-
-## 🔗 LinkedIn About
-
-As a Software Engineer with a Master’s in Data Science and AWS certifications (Cloud & AI), I specialize in designing and building scalable, data-driven backend solutions for large-scale distributed systems. I bridge the gap between high-performance software engineering, cloud infrastructure, and intelligent data systems.
-
-Currently, at Nu Colombia, I work in the Growth team (Upper Funnel Pack), engineering the core microservices for customer acquisition. I focus heavily on the 'Member Get Member' (MGM) referral flow and building cutting‑edge agentic architectures to deliver intelligent end‑to‑end solutions, collaborating with Product and Design teams to build frictionless, high‑availability services that turn customer curiosity into action.
-
-**Key Highlights of my Career:**
-
-- **Backend Modernization:** Migrated Talent.com's core monolith to Go/TypeScript microservices on AWS and Kubernetes. Integrated real‑time monitoring (Prometheus & Grafana) and structured unstructured data to enable AI‑driven capabilities.
-- **Engineering Leadership:** Led the CMF Plastic Team at Materialise, taking end‑to‑accountability for quality and delivery of customized surgical guides, applying my background in Bioengineering to high‑precision processes.
-- **Cloud & AI Adoption:** Actively leveraging modern cloud architectures and AI/ML concepts, backed by AWS Certified Cloud Practitioner and AWS Certified AI Practitioner certifications.
-
-**Core Expertise:**
-- **Backend & Architecture:** Clojure, Go, TypeScript, Python, PHP, Microservices, Distributed Systems
-- **Data & AI:** Data Science, Agentic Systems, AI Agents, Kafka, Prometheus, Grafana
-- **Cloud & DevOps:** AWS, Kubernetes, Docker
-- **Leadership:** Team Management, Agile, Process Improvement, Quality Assurance
 
 ---
 
