@@ -1,8 +1,12 @@
 # Hi there, I'm Camilo! 👋
 
-As a Software Engineer with a Master’s in Data Science and AWS certifications (Cloud & AI), I specialize in designing and building scalable, data-driven backend solutions for large-scale distributed systems. I bridge the gap between high-performance software engineering, cloud infrastructure, and intelligent data systems.
+With nearly 4 years of experience as a Software Engineer, a Master's in Data Science, and AWS certifications in Cloud and AI, I specialize in architecting highly available, scalable backend systems and leading complex platform modernizations.
 
-Currently, at Nu Colombia, I work in the Growth team (Upper Funnel Pack), engineering the core microservices for customer acquisition. I focus heavily on the 'Member Get Member' (MGM) referral flow and building cutting-edge agentic architectures to deliver intelligent end-to-end solutions, collaborating with Product and Design teams to build frictionless, high-availability services that turn customer curiosity into action.
+Currently at Nu (Growth BU), I engineer core services that transform prospects into customers and scale Member-Get-Member (MGM) initiatives for millions of users. I focus on building resilient, frictionless architectures for high-scale systems while architecting custom AI agents to optimize the software development lifecycle. Collaborating across Marketing, Design, Product, and Engineering, I deliver robust, end-to-end solutions.
+
+Previously, I played a key role in migrating a high-traffic platform (Talent.com) from legacy PHP to a modern microservices architecture using Go, TypeScript, Kubernetes, and AWS. My professional trajectory is rooted in my background as a Design & Quality Team Leader at Materialise, where I honed my skills in cross-functional leadership, KPI management, and driving operational efficiency under strict quality standards.
+
+Driven by the intersection of massive-scale distributed systems and practical AI innovation.
 
 ---
 
@@ -10,17 +14,19 @@ Currently, at Nu Colombia, I work in the Growth team (Upper Funnel Pack), engine
 
 ### **Nu Colombia** | *Software Engineer*
 *Mar 2025 – Present · 1 yr 3 mos*
-*Bogotá, Capital District, Colombia · Remote*
+*Bogotá, Capital District, Colombia · Hybrid*
 
-- Member of the Upper Funnel Pack, engineering core services guiding customers through their journey, transforming curiosity into action by designing frictionless architecture for financial product selection.
-- Collaborate in an agile environment with Product, Design, and Engineering teams to design and implement robust end‑to‑end solutions for new user experiences and demand generation channels.
-- Drive adoption of software engineering principles and architectural best practices to ensure a highly available and resilient platform.
-- Architect, build, and maintain scalable microservices that power the customer journey, from initial interaction to product selection.
-- Engineer solutions within a large‑scale distributed system, focusing on system design, performance, and long‑term maintainability.
+Operate as an integral Software Engineer within the Growth Business Unit, adopting Nu’s culture of end-to-end feature ownership without traditional frontend or backend silos. Drive the first-contact user journey by architecting frictionless, high-scale systems for financial product selection and scaling critical demand generation channels, including the Member-Get-Member (MGM) referral platform.
+
+- Architect and maintain resilient solutions within a large-scale distributed environment, championing architectural best practices and clean code principles to guarantee long-term maintainability.
+- Own and scale the Member-Get-Member (MGM) referral infrastructure, engineering high-throughput, secure backend logic to process viral growth loops and user rewards for millions of prospects.
+- Leverage cutting-edge AI agents and skills across all phases of the software development lifecycle to optimize engineering workflows and maximize code quality..
+- Collaborate closely across Marketing, Design, Product, and Engineering teams to rapidly design, iterate, and deploy end-to-end user acquisition funnels.
+
 
 
 ### **Talent.com** | *Back-end Developer*
-*November 2022 – Present*
+*November 2022 – March 2025*
 * Led the full migration of Talent.com’s core website from a PHP monolithic codebase to a modern **microservices** architecture using **Go** and **TypeScript**.
 * Designed and deployed infrastructure on **Kubernetes** and Amazon Web Services (**AWS**), significantly improving system scalability and availability.
 * Integrated **Artificial Intelligence (AI)** capabilities into the new architecture, establishing the foundation for more dynamic and efficient platform performance.
